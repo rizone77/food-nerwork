@@ -60,3 +60,35 @@ h1{
 }
 .about{
     margin-top: 10%;
+}
+.card{
+    display: flex;
+    margin: auto;
+    padding: 50px;
+    
+
+}
+.card img{
+    width: 280px;
+   
+    padding: 20px;
+    border-radius: 15%;
+    
+}
+.card div{
+    width: 28%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 35px;
+    border-radius: 20px;
+}
+.my-recipies{
+    margin: auto;
+    width: 500px;
+}
+.recipies{
+   text-align: center;
+  
+}
+.card-style h2 , p{
+    padding: 7px 16px;
+}
