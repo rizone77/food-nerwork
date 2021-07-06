@@ -44,3 +44,19 @@ h1{
     padding: 10px 30px;
     border-radius: 30px;
 }
+.middle-banner{
+    display: flex;
+}
+.about-me{
+    display: flex;
+    padding-left: 12%;
+}
+.about-me{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.about-me img{
+    width: 70%
+}
+.about{
+    margin-top: 10%;
